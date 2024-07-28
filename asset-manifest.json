@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Shoes-Web/static/css/main.abd36ad3.css",
+    "main.js": "/Shoes-Web/static/js/main.d869ffb5.js",
+    "static/js/453.37151cb1.chunk.js": "/Shoes-Web/static/js/453.37151cb1.chunk.js",
+    "static/media/mini.jpg": "/Shoes-Web/static/media/mini.8217e1bf172d06456f6c.jpg",
+    "static/media/shoe 2.png": "/Shoes-Web/static/media/shoe 2.a0c449b145ef71a6976a.png",
+    "static/media/img4.jpg": "/Shoes-Web/static/media/img4.73721adcc1f4f04bddea.jpg",
+    "static/media/logo2.png": "/Shoes-Web/static/media/logo2.38e206e692807b995be4.png",
+    "static/media/img4.png": "/Shoes-Web/static/media/img4.d083a30a77be6eecca81.png",
+    "static/media/img1.jpg": "/Shoes-Web/static/media/img1.a4d38dc1075893d528cc.jpg",
+    "static/media/img10.png": "/Shoes-Web/static/media/img10.fb6b46bac6ab5ce0f008.png",
+    "static/media/img12.png": "/Shoes-Web/static/media/img12.373ef52e841d22ad552e.png",
+    "static/media/img8.png": "/Shoes-Web/static/media/img8.13ca1d4688d05f00ab4e.png",
+    "static/media/img11.png": "/Shoes-Web/static/media/img11.79dc3e21829e352c1992.png",
+    "static/media/revicons.eot": "/Shoes-Web/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Shoes-Web/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Shoes-Web/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Shoes-Web/index.html",
+    "main.abd36ad3.css.map": "/Shoes-Web/static/css/main.abd36ad3.css.map",
+    "main.d869ffb5.js.map": "/Shoes-Web/static/js/main.d869ffb5.js.map",
+    "453.37151cb1.chunk.js.map": "/Shoes-Web/static/js/453.37151cb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd36ad3.css",
+    "static/js/main.d869ffb5.js"
+  ]
+}
